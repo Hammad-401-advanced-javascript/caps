@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "faker": "^4.1.0",
-    "sinon": "^9.0.2"
+    "sinon": "^9.0.2",
+    "spies": "^0.1.6"
   }
 }
