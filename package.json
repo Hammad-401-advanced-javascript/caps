@@ -1,0 +1,31 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lint": "^0.7.0",
+    "sinon": "^9.0.2",
+    "spies": "^0.1.6"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "start": "node caps.js",
+    "lint": "eslint '**/*.js'",
+    "test": "jest --verbose --coverage --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hammad-401-advanced-javascript/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hammad-401-advanced-javascript/caps/issues"
+  },
+  "homepage": "https://github.com/Hammad-401-advanced-javascript/caps#readme"
+}
