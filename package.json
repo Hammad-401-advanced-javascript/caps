@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "faker": "^4.1.0",
-    "lint": "^0.7.0",
+    "lint": "^0.8.8",
     "sinon": "^9.0.2",
     "spies": "^0.1.6"
   },
